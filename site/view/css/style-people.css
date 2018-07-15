@@ -1,0 +1,80 @@
+/************************************/
+/******* CSS DA PAGE PEOPLE  *******/
+/************************************/
+
+.abas{
+    border-bottom: solid 5px blue;
+}
+
+#popup-people{
+    width: 100vw;
+    height: 100vh;
+    background-color: #4d4d4dcd;
+    position: fixed;
+    z-index: 1000
+}
+
+#popup-block{
+    background-color: white;
+    width: 100%;
+    height: 30vh;
+    margin-top: 30vh;
+}
+
+.img-people{
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 130px;
+    border: solid 2px #D1CFCE;
+    border-radius: 100%;
+}
+
+.name {
+    color: #4d4d4d; 
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+
+}
+
+.position {
+    color: #4d4d4d;
+    font-size: 0.7em;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.tag-title{
+    color: #4d4d4d;
+    font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tag-title-collaborator{
+    color: #192226;
+    font-size: 1.8em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.link-collaborator{
+    font-size: 1.1em;
+    color: #FF6347;
+}
+
+
+.people-popup-title{
+    font-size: 1.2em;
+    font-family: 'Open Sans', Arial;
+    font-weight: 600;
+    text-align: center;
+}
+
+.close-popup-people{
+    background-color: #303a43;
+    color: white;
+    font-family: 'Open Sans', Arial;
+    cursor: pointer;
+}

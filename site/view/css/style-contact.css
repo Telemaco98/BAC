@@ -1,0 +1,52 @@
+/************************************/
+/******  CSS DA PAGE CONTACT ******/
+/************************************/
+.title-contact{
+        font-size: 1.6em;
+        font-family: 'Lato', sans-serif;
+}
+
+.description-contact{
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contact-input, textarea{
+    border: 0.1em solid #cccccc;
+    background-color: #e3e3e3;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    width: 90%;
+    color: #4d4d4d;
+    margin-bottom: 0.5em;
+}
+
+textarea {
+    height: 7em;
+}
+
+button{
+    border: 0.1em solid #cccccc;
+    padding: 0.3em 2em 0.3em 2em;
+    background-color: #303a43;
+    color: white;
+    cursor: pointer;
+}
+
+.box-contact{
+    border: 0.1em solid #d3d3d3;
+    background-color: #f3f3f3;
+}
+
+
+.contact-icons{
+    background-size: 100%;
+    background-size: cover;
+    width: 20%;
+}
+
+.text-contact {
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,37 @@
+/******************************************/
+/*********** GD PROGRAM CONFIG  ***********/
+/******************************************/
+
+.text-general{
+    padding: 2em 5em;
+    text-align: justify;
+}
+
+.img-students{
+    width: 65%;
+    height: auto;
+    box-shadow: 10px 10px 10px #888888;
+}
+
+.odometerMine{
+     width: 200px;
+     height: 200px;
+     padding: 48px;
+     margin: .8em 0;
+     background-color: #243c4e;
+     border-radius: 100%;
+     border: solid 3.5px #243c4e;
+     font-size: 70px;
+     font-weight: 500;
+     color: #FFFFFF;
+}
+
+.toFloat{
+     float: left;
+}
+
+.text-data{
+     font-size: 27px;
+     font-weight: 500;
+     color: #243c4e;
+}

@@ -1,0 +1,154 @@
+/*******************************************/
+/************** NEWS CONFIG  *************/
+/******************************************/
+
+
+.newbox{
+    width: 100%;
+    min-height: 20em;
+    margin:20px 10px;
+    padding:10px;
+    width:258px;
+    float: left;
+    border-top: solid 5px #4682B4;
+    background-color: #dfdfdf;
+    -moz-transition-duration:0.8s;
+    -webkit-transition-duration:0.8s;
+   
+}
+
+.newbox a{
+    text-decoration:none;
+}
+
+.newbox:hover{
+    box-shadow:-5px 10px 15px rgba(0,0,0,0.25);
+    position:relative;
+}
+
+.newbox > a{
+    text-decoration: none;
+    outline: none;
+    color: #222;
+}
+
+.newbox-text{
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    margin: .5em;
+    height: 7em;
+}
+
+.newbox > a:hover{
+    color: #436785;
+}
+
+/* Os boxs que irão ficar ocultos até o usuário clicar no botão "more news" */
+.newbox-hide{
+    width: 100%;
+    min-height: 20em;
+    float: left;
+    border-top: solid 5px #4682B4;
+    background-color: #dfdfdf;
+    -moz-transition-duration:0.8s;
+    -webkit-transition-duration:0.8s;
+    margin:20px 10px;
+    padding:10px;
+    width:258px;
+    
+}
+
+.newbox-hide a{
+    text-decoration:none;
+}
+
+
+.newbox-hide:hover{
+    box-shadow:-5px 10px 15px rgba(0,0,0,0.25);
+    position:relative;
+}
+
+.newbox-hide > a{
+    text-decoration: none;
+    outline: none;
+    color: #222;
+}
+
+.newbox-text{
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    margin: .5em;
+    height: 7em;
+}
+
+.newbox-hide > a:hover{
+    color: #436785;
+}
+
+/* --------------- */
+
+
+.newbox-img{
+    width: 100%;
+    height: 12em;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+.newboxbig{
+    width: 100%;
+    margin: 15% 0;
+    padding: 3%;
+    border-top: solid 5px #4682B4;
+    
+    background-color: #dfdfdf;
+}
+
+.newboxbig > p{
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+.newboxbig-img{
+    width: 100%;
+    border-radius: 1%;
+    margin-bottom: 3%;
+}
+
+.newboxbig-icon{
+    height: 23px;
+    width: 23px;
+    float: left;
+}
+
+.newboxbig-title, .newboxbig-text, .newboxbig-icon {
+    margin: 2%;
+}
+
+.img-inconcalendar{
+    height: 23px;
+    width: 23px;
+    float: left;
+    margin: 0 4%;
+}
+
+#btn-news{
+    width:350px;
+    padding:20px 10px;
+    margin:auto;
+    /*margin:0px 0px 0px 350px;
+    */
+    font-family: 'sans-serif';
+ }
+
+
+#social-media{
+text-align: center;
+border-bottom:solid 2px #222;
+border-color: #4682B4;
+}
+

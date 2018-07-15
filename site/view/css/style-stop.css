@@ -1,0 +1,31 @@
+section #time{
+   width: 60%;
+   font-size: 55px;
+   margin: 50px;
+}
+
+/*
+section #buttons{
+   width: 330px;
+   margin: auto;
+}
+
+.button{
+   width: 100px;
+   border-radius: 5px;
+   background: #1cd600;
+   color: white;
+   text-transform: uppercase;
+   padding: 15px;
+   border: none;
+   cursor: pointer;
+   margin: 15px 5px;
+   float: left;
+}
+
+.button:disabled, .button[disabled]{
+   background: #ccc;
+   color: #333;
+   cursor: auto
+}
+*/

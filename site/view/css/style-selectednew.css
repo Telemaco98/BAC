@@ -1,0 +1,26 @@
+
+.date-img-new{
+    height: 15px;
+    width: 15px;
+}
+
+.date-new{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    margin-left: 5px;
+}
+
+.title-new{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    width: 100%;
+    font-weight: 600;
+}
+
+.text-new{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: justify;
+}

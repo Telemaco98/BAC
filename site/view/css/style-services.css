@@ -1,0 +1,105 @@
+
+/******************************************/
+/******* BLOCK 'ABOUT US' CONFIG  ******/
+/******************************************/
+
+    /* 'services' title font */
+    .title-biome {
+        font-size: 1.4em;
+        font-family: 'Work Sans', Arial, sans-serif;
+        color: #4d4d4d;
+        font-weight: 600;
+    }
+
+    .title-biome-services {
+        color: #434251;
+        font-weight: 500;
+    }
+
+
+    .text-inicial-services{
+        text-align: justify;
+        margin-top: 5%;
+        font-size: 1.2em;
+        font-weight: 600;
+        font-family: 'Work Sans', Arial, sans-serif;
+        font-weight: 300;
+        color: #2d2d2d;
+        line-height: 1.3em;
+    }
+
+    /* Config mini-block 'about us' */
+    .offering-box{
+        border: 1px solid #f4f4f4;
+        background-color: #c4c4c4;
+        margin: 10%;
+        padding: 2%;
+        width: 90%;
+        cursor: pointer;
+    }
+
+    /* Config mini-block 'about us' */
+    .content-box{
+        padding: 3%;
+    }
+
+    /* Config footer mini-block 'about us' */
+    .footer-box{
+        width: 104%;
+        height: 2em;
+        background-color: #c9c9c9;
+        margin-left: -2%;
+        margin-top: 0%;
+    }
+
+    button{
+                outline: none;
+
+    }
+
+    /* Config description mini-block 'about us' */
+    .description-about-us {
+        font-family: 'Open Sans', sans-serif;
+        text-align: justify;
+        color: #232323;
+        font-size: 0.9em;
+    }
+
+    /* more info 'about us' font */
+    .more-info{
+        color: #4d4d4d;
+        font-size: 1em;
+        font-family: 'Work Sans', Arial, sans-serif;
+        margin-top: 1%;
+        background-color: #c9c9c9;
+        border: 0px solid black;
+        cursor: pointer;
+    }
+
+    .title-service {
+        font-size: 1.09em;
+        font-family: 'Open Sans', Arial, sans-serif;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    .img-services {
+        height: auto;
+        width: 100%;
+    }
+
+    .title-box{
+        width: 100%;
+        margin-left: 0%;
+        background-color: #e3e3e3;
+        padding-bottom: 0.5em;
+    }
+
+    .icon-box{
+        height: 95px;
+        width: 95px;
+        border-radius: 100%;
+        margin-top: 10%;
+        background-color: #243c4e;
+    }
+

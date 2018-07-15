@@ -1,0 +1,19 @@
+#logo{
+	width: 100%; 
+	height: auto;
+	margin-top: 10%;
+}
+
+#div-logo{
+	padding: 5%;
+}
+
+.images{
+	width: 100%; 
+	height: auto; 
+	box-shadow: 10px 10px 10px #888888;
+}
+
+.div-images{
+	padding: 5%;
+}
